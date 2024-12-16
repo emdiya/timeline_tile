@@ -1,8 +1,6 @@
 name: example_timeline_tile
 description: A new Flutter project.
 
-# publish_to: 'none'
-
 version: 1.0.1+2
 
 environment:
@@ -11,19 +9,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   flutter_highlight: ^0.7.0
-  google_fonts: ^6.1.0
-  timeline_tile:
-    # path: ../
+  google_fonts: ^6.2.1
+  timeline_tile: any
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
 flutter:
-
   uses-material-design: true
-
   assets:
     - assets/
