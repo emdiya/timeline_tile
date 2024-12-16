@@ -10,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_highlight: ^0.7.0
-  google_fonts: ^6.2.1
-  timeline_tile: any
+  google_fonts: ^6.1.0
+  timeline_tile: ^2.0.0  # Specify the version constraint
 
 dev_dependencies:
   flutter_test:
@@ -21,3 +21,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/
+
+homepage: https://github.com/emdiya/timeline_tile  # Example homepage
+repository: https://github.com/emdiya/timeline_tile  # Example repository
